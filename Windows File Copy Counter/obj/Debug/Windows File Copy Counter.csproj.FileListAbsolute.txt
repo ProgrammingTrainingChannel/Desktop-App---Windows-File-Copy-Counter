@@ -1,0 +1,9 @@
+D:\Projects\BT IT Solutions\Windows File Copy Counter\Windows File Copy Counter\bin\Debug\Windows File Copy Counter.exe.config
+D:\Projects\BT IT Solutions\Windows File Copy Counter\Windows File Copy Counter\bin\Debug\Windows File Copy Counter.exe
+D:\Projects\BT IT Solutions\Windows File Copy Counter\Windows File Copy Counter\bin\Debug\Windows File Copy Counter.pdb
+D:\Projects\BT IT Solutions\Windows File Copy Counter\Windows File Copy Counter\obj\Debug\Windows File Copy Counter.csprojResolveAssemblyReference.cache
+D:\Projects\BT IT Solutions\Windows File Copy Counter\Windows File Copy Counter\obj\Debug\Windows_File_Copy_Counter.frmMain.resources
+D:\Projects\BT IT Solutions\Windows File Copy Counter\Windows File Copy Counter\obj\Debug\Windows_File_Copy_Counter.Properties.Resources.resources
+D:\Projects\BT IT Solutions\Windows File Copy Counter\Windows File Copy Counter\obj\Debug\Windows File Copy Counter.csproj.GenerateResource.Cache
+D:\Projects\BT IT Solutions\Windows File Copy Counter\Windows File Copy Counter\obj\Debug\Windows File Copy Counter.exe
+D:\Projects\BT IT Solutions\Windows File Copy Counter\Windows File Copy Counter\obj\Debug\Windows File Copy Counter.pdb
